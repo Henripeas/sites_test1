@@ -4,7 +4,9 @@
   "description": "this is a test directory to lear git",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
   },
   "repository": {
     "type": "git",
@@ -19,4 +21,5 @@
   "devDependencies": {
     "lite-server": "^2.5.4"
   }
+  
 }
