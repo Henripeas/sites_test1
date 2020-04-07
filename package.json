@@ -1,0 +1,22 @@
+{
+  "name": "sites_test1",
+  "version": "1.0.0",
+  "description": "this is a test directory to lear git",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Henripeas/sites_test1.git"
+  },
+  "author": "Henripeas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Henripeas/sites_test1/issues"
+  },
+  "homepage": "https://github.com/Henripeas/sites_test1#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
